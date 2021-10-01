@@ -1,6 +1,6 @@
 # contador
 
-A new Flutter project.
+Aplicacion Contador con mas funcionalidades 
 
 ## Getting Started
 
